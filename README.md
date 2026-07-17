@@ -1,4 +1,4 @@
-# 🐍 Outlook Change Automation
+# 🐍 Python Outlook Change Automation
 
 ## 📌 Overview
 Python script that automates email responses based on change management data.
